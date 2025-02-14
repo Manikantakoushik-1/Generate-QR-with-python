@@ -9,3 +9,4 @@ PIL library: You can install it via pip with the command pip install pillow.<br>
 3.Run the script.<br>
 4.The script will generate a QR code image named qr_with_logo.png in the current directory.<br>
 # Sample QR
+![qr_with_logo](https://github.com/user-attachments/assets/460b21a9-c3b8-4f56-a882-a106114283f5)
